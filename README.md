@@ -81,16 +81,6 @@ The project follows a structured pipeline-based approach:
 - **Produccion/**  
   Contains the final notebook designed for forecast generation in a production environment.
 
-Contains the consolidated database and the original inputs used throughout the project.
-
-📁 Flujo
-
-Contains the full project pipeline divided into sequential notebooks.
-
-📁 Produccion
-
-Contains the final notebook designed for forecast generation in a production environment.
-
 ## 🧪 Technologies Used
 
 - Python 🐍
