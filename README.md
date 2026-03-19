@@ -64,8 +64,15 @@ The project follows a structured pipeline-based approach:
    - Out-of-sample metrics
    - Model comparison
    - Best-model selection by forecasting horizon
+  
+7. **Explainability analysis**
+   -Global and local interpretability of results with SHAP
 
-7. **Production**
+8. **Robustness Check**
+   -Expanding vs Rolling window forecasting performance
+   -temporal consistency of predictive accuracy splitting the OOS predictions 
+
+9. **Production**
    - Final pipeline for generating forecasts in a production environment
 
 ---
