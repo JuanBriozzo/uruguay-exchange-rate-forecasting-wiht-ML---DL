@@ -72,11 +72,14 @@ The project follows a structured pipeline-based approach:
 
 ## 🗂️ Repository Structure
 
-```text
-Base_de_datos/
-Flujo/
-Produccion/
-📁 Base_de_datos
+- **Base_de_datos/**  
+  Contains the consolidated database and the original inputs used throughout the project.
+
+- **Flujo/**  
+  Contains the full project pipeline divided into sequential notebooks.
+
+- **Produccion/**  
+  Contains the final notebook designed for forecast generation in a production environment.
 
 Contains the consolidated database and the original inputs used throughout the project.
 
@@ -88,7 +91,7 @@ Contains the full project pipeline divided into sequential notebooks.
 
 Contains the final notebook designed for forecast generation in a production environment.
 
-🧪 Technologies Used
+## 🧪 Technologies Used
 
 - Python 🐍
 - Pandas / NumPy
@@ -121,9 +124,9 @@ N00 → N01 → N02 → N03 → N04 → N05 → N06
 Produccion/N07_produccion.ipynb
 ---
 
-```bash
 
-📌 Notes
+
+## 📌 Notes
 
 Some notebooks are intended for research and experimentation, while others are part of the production pipeline.
 
