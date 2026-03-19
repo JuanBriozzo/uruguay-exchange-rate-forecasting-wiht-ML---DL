@@ -1,4 +1,4 @@
-# uruguay-exchange-rate-forecasting-wiht-ML-and-DL
+# uruguay-exchange-rate-forecasting-with-ML-and-DL
 
 ## 🧠 Project Description
 
