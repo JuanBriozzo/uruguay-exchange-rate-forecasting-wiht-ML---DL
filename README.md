@@ -121,7 +121,7 @@ N00 → N01 → N02 → N03 → N04 → N05 → N06
 Produccion/N07_produccion.ipynb
 ---
 
-```markdown
+```bash
 
 📌 Notes
 
