@@ -114,11 +114,11 @@ pip install -r requirements.txt
 The research pipeline is organized as a sequence of notebooks inside the Flujo/ folder:
 
 Flujo/
-N00 → N01 → N02 → N03 → N04 → N05 → N06
+N00 → N01 → N02 → N03 → N04 → N05 → N06 → N07 → N08
 
 4. Run the production notebook
 
-Produccion/N07_produccion.ipynb
+Produccion/N09_produccion.ipynb
 ---
 
 
